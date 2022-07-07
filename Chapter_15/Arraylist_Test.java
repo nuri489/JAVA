@@ -27,7 +27,6 @@ public class Arraylist_Test {
 	public static void main(String[] args) {
 		
 		ArrayList list = new ArrayList(3);
-		// 5 크기의 배열 생성
 		int a = 100;
 		Integer in = new Integer(100);
 		
